@@ -3,7 +3,7 @@ This code was written in C and applies a filter onto an image.ppm file based on 
 </br>
 For example the kernel: </br>
 -1 -1 -1 </br>
--1  8 -1 </br>
+-1  8  -1 </br>
 -1 -1 -1 </br> </br>
 Produced a filter on the following image: </br>
 </br>
